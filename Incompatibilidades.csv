@@ -1,0 +1,21 @@
+Alergia/Enfermedad,Comidas
+Polen,Comida012
+Polvo,Comida002
+Lactosa,Comida003;Comida001;Comida006
+Gluten,Comida016
+Frutos secos,Comida007
+Mariscos,Comida002
+Picaduras de insectos,Comida003;Comida009
+Latex,Comida011
+Medicamentos,Comida020
+Pelo de animales,Comida016;Comida012
+Diabetes,Comida009
+Hipertensión,Comida019;Comida001;Comida007
+Asma,Comida007
+Artritis,Comida009;Comida001;Comida002
+Esclerosis múltiple,Comida002;Comida016
+Enfermedad celíaca,Comida002;Comida019;Comida006
+Fibrosis quística,Comida005
+Anemia,Comida014;Comida004
+Hipotiroidismo,Comida007;Comida009
+Hipertiroidismo,Comida014;Comida013
