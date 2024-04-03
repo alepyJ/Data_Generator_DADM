@@ -19,8 +19,7 @@ alergias_nombres = [
 # Crear DataFrame
 alergia_df = pd.DataFrame({'Nombre': alergias_nombres})
 
-# Ruta del archivo CSV a generar para "Alergia"
-csv_file_path_alergia ='C://Users//Lenovo//OneDrive//Escritorio//UAB//C3S2//DADM//Proyecto CAR//Alergias.csv'
+
 # Exportar DataFrame a CSV
-alergia_df.to_csv(csv_file_path_alergia, index=False)
+alergia_df.to_csv('Alergias.csv', index=False)
 

@@ -17,5 +17,5 @@ atleta_data_especifico = {
 atleta_df_especifico = pd.DataFrame(atleta_data_especifico)
 
 # Guardar el DataFrame como CSV
-csv_file_path_especifico = 'C://Users//Lenovo//OneDrive//Escritorio//UAB//C3S2//DADM//Proyecto CAR//Atletas.csv'
-atleta_df_especifico.to_csv(csv_file_path_especifico, index=False)
+
+atleta_df_especifico.to_csv('Atletas.csv', index=False)
